@@ -21,6 +21,7 @@ This is a simple food website created using HTML, CSS, and JavaScript. The websi
 Navigate to the project directory:
    ```cmd
   cd food_website
+   ```
 
 Open index.html in your browser to view the website.
 
